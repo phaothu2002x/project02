@@ -669,3 +669,8 @@ a {
     background-color: var(--primary-color);
     cursor: default;
 }
+
+/* footer */
+.footer {
+    background-color: #171100;
+}
